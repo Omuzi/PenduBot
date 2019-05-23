@@ -1,0 +1,39 @@
+
+
+[13:03:17] Connection du bot à Discord. (0.7.0)
+
+[13:06:19] Mot ajouté par Yukio : COCHON
+[13:06:27] Démarage d'une partie par Yukio | Mot a trouver : VERRE | Difficultée : NORMAL
+[13:07:09] Partie terminée par Yukio
+[13:08:07] Démarage d'une partie par Yukio | Mot a trouver : LETTRE | Difficultée : NORMAL
+[13:08:14] Partie terminée par Yukio
+[13:08:23] Démarage d'une partie par Yukio | Mot a trouver : ECONOMIE | Difficultée : HARD
+[13:09:14] Partie terminée par Yukio
+
+[13:44:45] Connection du bot à Discord. (0.7.0)
+
+[14:06:26] Connection du bot à Discord. (0.7.0)
+[14:06:36] Démarage d'une partie par Yukio | Mot a trouver : UNIX | Difficultée : NORMAL
+[14:07:27] Partie terminée par Yukio
+
+[14:09:31] Mot ajouté par Yukio : PAIN
+
+[14:09:51] Mot ajouté par Yukio : SALOPETTE
+
+[14:10:08] Mot ajouté par Yukio : EAU
+
+[14:10:16] Mot ajouté par Yukio : CHIEN
+
+[14:10:21] Mot ajouté par Yukio : CHAT
+
+[14:10:26] Mot ajouté par Yukio : GIRAFE
+[14:10:41] Démarage d'une partie par Yukio | Mot a trouver : LETTRE | Difficultée : NORMAL
+[14:10:58] Partie terminée par Yukio
+[14:11:32] Démarage d'une partie par Yukio | Mot a trouver : LETTRE | Difficultée : NORMAL
+[14:11:37] Partie terminée par Yukio
+[14:11:40] Démarage d'une partie par Yukio | Mot a trouver : POTIRON | Difficultée : NORMAL
+[14:12:26] Partie terminée par Yukio
+
+[14:19:09] Mot ajouté par Mousti : CACA
+[14:19:21] Démarage d'une partie par Yukio | Mot a trouver : CACA | Difficultée : NORMAL
+[14:19:37] Partie terminée par Mousti

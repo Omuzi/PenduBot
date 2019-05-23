@@ -1,0 +1,36 @@
+{
+    "liste_mot": [
+        {
+            "mot": "COCHON",
+            "user": "Yukio"
+        },
+        {
+            "mot": "PAIN",
+            "user": "Yukio"
+        },
+        {
+            "mot": "SALOPETTE",
+            "user": "Yukio"
+        },
+        {
+            "mot": "EAU",
+            "user": "Yukio"
+        },
+        {
+            "mot": "CHIEN",
+            "user": "Yukio"
+        },
+        {
+            "mot": "CHAT",
+            "user": "Yukio"
+        },
+        {
+            "mot": "GIRAFE",
+            "user": "Yukio"
+        },
+        {
+            "mot": "CACA",
+            "user": "Mousti"
+        }
+    ]
+}
