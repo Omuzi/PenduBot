@@ -4,6 +4,9 @@ const client = new Discord.Client();
 const mots = require("./mots.json")
 const motsEnAttente = require("./motsEnAttente.json")
 const config = require("./config.json")
+const token = process.env.token
+
+client.login(token);
 
 
 var date = new Date().toLocaleTimeString();
@@ -17,7 +20,6 @@ var nbEssais = 0;
 var difficultee = "";
 var lettreTest = "";
 
-client.login(config.token);
 
 client.on("ready", async () => {
   console.log("Je suis prêt !");
