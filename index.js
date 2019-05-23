@@ -5,6 +5,7 @@ const mots = require("./mots.json")
 const motsEnAttente = require("./motsEnAttente.json")
 const config = require("./config.json")
 
+
 var date = new Date().toLocaleTimeString();
 var version = "0.7.0";
 
@@ -19,6 +20,7 @@ var lettreTest = "";
 client.login(config.token);
 
 client.on("ready", async () => {
+  console.log("Je suis prêt !");
   addLog("Connection du bot à Discord. (" + version + ")", true)
   client.user.setGame(config.prefix + "help");
 });
